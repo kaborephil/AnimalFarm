@@ -10,6 +10,54 @@ namespace AnimalFarm
     {
         static void Main(string[] args)
         {
+            Animal chicken = new Chicken();
+
+            Console.Write("Enter name: ");
+            chicken.AnimalName = Console.ReadLine();
+
+            chicken.Speak();
+            chicken.Eat();
+            chicken.Product();
+
+            //Add Margin between objects
+            Console.WriteLine("\n\n");
+
+            Animal cow = new Cow();
+
+            Console.Write("Enter name: ");
+            cow.AnimalName = Console.ReadLine();
+
+            cow.Speak();
+            cow.Eat();
+            cow.Product();
+
+            //Add Margin between objects
+            Console.WriteLine("\n\n");
+
+            Animal pig = new Pig();
+
+            Console.Write("Enter name: ");
+            pig.AnimalName = Console.ReadLine();
+
+            pig.Speak();
+            pig.Eat();
+            pig.Product();
+
+            //Add Margin between objects
+            Console.WriteLine("\n\n");
+
+            Animal horse = new Horse();
+
+            Console.Write("Enter name: ");
+            horse.AnimalName = Console.ReadLine();
+
+            horse.Speak();
+            horse.Eat();
+            horse.Product();
+
+            Console.ReadKey();
+           
+
         }
     }
 }

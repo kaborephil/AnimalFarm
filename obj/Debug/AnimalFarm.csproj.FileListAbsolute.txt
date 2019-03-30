@@ -1,0 +1,7 @@
+C:\Users\kabor\Desktop\VS Source Codes\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\Users\kabor\Desktop\VS Source Codes\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\Users\kabor\Desktop\VS Source Codes\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\Users\kabor\Desktop\VS Source Codes\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\kabor\Desktop\VS Source Codes\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\kabor\Desktop\VS Source Codes\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\Users\kabor\Desktop\VS Source Codes\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.pdb
