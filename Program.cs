@@ -10,6 +10,12 @@ namespace AnimalFarm
     {
         static void Main(string[] args)
         {
+
+            //Display Header
+            Console.WriteLine();
+            Console.WriteLine("********************************** WELCOME TO SOUTHEAST AMIMAL FARM ******************************************"+"\n\n");
+            Console.WriteLine(" Instruction \n"+ " To visit each animal section type a keyword :");
+            Console.WriteLine(" chicken\n"+" cow\n"+" horse\n"+" pig\n\n");
             Animal chicken = new Chicken();
 
             Console.Write("Enter name: ");
