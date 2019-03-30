@@ -21,7 +21,7 @@ namespace AnimalFarm
 
         public override void Product()
         {
-            Console.WriteLine("Pigs provide Pork");
+            Console.WriteLine("Pigs provide Pork\n");
         }
     }
 }
