@@ -8,10 +8,20 @@ namespace AnimalFarm
 {
     public class Pig : Animal
     {
-        //Polimorphism
+        //Polymorphism
         public override void Speak()
         {
             Console.WriteLine("Hello, my name is " + AnimalName + " and I am a pig. I say oink.");
+        }
+
+        public override void Eat()
+        {
+            Console.WriteLine("Pigs Eat anything!");
+        }
+
+        public override void Product()
+        {
+            Console.WriteLine("Pigs provide Pork");
         }
     }
 }

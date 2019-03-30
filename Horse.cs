@@ -11,7 +11,17 @@ namespace AnimalFarm
         //implementing polymorphism
         public override void Speak()
         {
-            Console.WriteLine("Hello, my name is " + AnimalName +" and Iam a horse. I say neigh.");
+            Console.WriteLine("Hello, my name is " + AnimalName +" and I am a horse. I say neigh.");
+        }
+
+        public override void Eat()
+        {
+            Console.WriteLine("Horses Eat Hay!");
+        }
+
+        public override void Product()
+        {
+            Console.WriteLine("Horses provide transportation");
         }
     }
 }
