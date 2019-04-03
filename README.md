@@ -14,6 +14,6 @@ license
 ### Create dictionary data structure to match the keyword (type of animal)
 ### with display section ( to display each section of the farm).
 
-![](Images/Demo.gif)
+![](images/Demo.gif)
 
 
